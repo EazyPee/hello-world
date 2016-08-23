@@ -1,2 +1,1 @@
-# hello-world
-Tuto
+print ("myballs.com");
